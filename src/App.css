@@ -1,0 +1,30 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.App {
+  text-align: center;
+}
+
+.Button {
+  font-size: 2vh;
+  margin: 0.5vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+
+.Yes {
+  background-color: green;
+  border-radius: 5%;
+  color: azure;
+}
+
+.No {
+  background-color: red;
+  border-radius: 5%;
+  color: azure;
+}
